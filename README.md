@@ -1,5 +1,6 @@
-# Hello World 👋
+# Hi there 👋 I'm Faran 👨‍💻 
 
+![image]({https://www.linkedin.com/in/faranjaved/})
 <!--
 **faranweb/faranweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
