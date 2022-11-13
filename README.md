@@ -57,12 +57,20 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="icon" />
+      <br>Powershell
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="icon" />
+      <br>vscode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="icon" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="icon" />
+      <br>Adobe Xd
     </td>
   </tr>
 </table>
