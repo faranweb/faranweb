@@ -6,7 +6,7 @@
    </a>
 </div>
 
-<div align="center">
+<div>
    <p>
       I write front end code
    </p>
