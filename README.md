@@ -8,7 +8,8 @@
 
 <div>
    <p>
-      I write front end code
+      Hello World, welcome to my GitHub.
+      I am Faran Javed, A passionate Front-End Developer who likes to code Websites and Chrome Extensions! 
    </p>
 </div>
 <!--
