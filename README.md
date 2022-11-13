@@ -38,6 +38,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
       <br>Javascript
     </td>
+     <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+      <br>React
+    </td>
      <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
