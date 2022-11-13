@@ -8,7 +8,7 @@
 
 <div>
    <p>
-      Hello World, welcome to my GitHub.
+      Hello World, welcome to my GitHub. <br />
       I am Faran Javed, A passionate Front-End Developer who likes to code Websites and Chrome Extensions! 
    </p>
 </div>
