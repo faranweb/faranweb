@@ -14,7 +14,7 @@
 </div>
 
 ## My current stack
-> Tools I have worked with 
+> Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
