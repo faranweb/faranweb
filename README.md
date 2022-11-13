@@ -8,7 +8,7 @@
 
 <div align="center">
    <p>
-      #I write front end code
+      I write front end code
    </p>
 </div>
 <!--
