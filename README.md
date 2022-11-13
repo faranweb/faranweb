@@ -19,23 +19,23 @@
 <table>
   <tr>
   <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="100%" height="100%" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="100%" height="100%" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="100%" height="100%" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100%" height="100%" /> 
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" /> 
         <br> SCSS
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100%" height="100%" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
       <br>Javascript
     </td>
      <td align="center" width="96"> 
