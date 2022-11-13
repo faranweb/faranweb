@@ -72,6 +72,10 @@
         <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="icon" />
       <br>Adobe Xd
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="icon" />
+      <br>Linux
+    </td>
   </tr>
 </table>
 
